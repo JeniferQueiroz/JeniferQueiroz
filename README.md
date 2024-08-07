@@ -6,6 +6,6 @@ Meu nome é Jennfer
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :
 00001092308003sp@al.educacao.sp.gov.br
-![](https://images.app.goo.gl/qgDMq3TUyhcpcstt6)
+![https://images.app.goo.gl/qgDMq3TUyhcpcstt6]()
